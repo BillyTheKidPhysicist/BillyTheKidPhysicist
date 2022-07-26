@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BillyTheKidPhysicist
 - 👀 I’m interested in using physics and critical thinking to improve humanity
 - 🌱 I’m currently learning physics, spanish and how to tie up the loose ends of 6.5 years of grad school
-- 💞️ I’m looking to collaborate on nothing at the moment, I'm working on my PhD
 - 📫 How to reach me billydebenham@gmail.com
 
 <!---
